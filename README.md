@@ -7,7 +7,7 @@ This repository contains a financial case study focused on analyzing and improvi
 
 - `Case_Study_Report.pdf`: Full written report outlining the methodology, diagnostic findings, and proposed financial optimization measures.
 - `Excel_Model.xlsx`: A structured financial model used for benchmarking key performance indicators (KPIs) and identifying structural inefficiencies.
-- `Presentation_Slides.pdf`: Executive-level summary of the findings and suggested implementation steps. *(Optional)*
+- `Presentation_Slides.pdf`: Executive-level summary of the findings and suggested implementation steps. 
 
 ## Focus Areas
 
